@@ -1,8 +1,8 @@
 import random
 
 round: int = 1
-ai_wins = 0
-player_wins = 0
+ai_wins: int = 0
+player_wins: int = 0
 ai_ans: str = ''
 player_ans: str = ''
 
